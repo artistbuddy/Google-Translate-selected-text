@@ -2,7 +2,7 @@
 It's AppleScript that open Google Translate service with filled up selected text in Safari
 
 ## How to use it?
-The simplest way is to create a new Service in Automator.app
+Open *Run Google Translate.workflow* file and see 5. or manually create a new *Service* in Automator.app
 
 1. Open Automator and select new *Service* (gear icon)
 2. At the top select Service receives *no input* and set in to *Safari.app*
